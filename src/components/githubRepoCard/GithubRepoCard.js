@@ -32,7 +32,7 @@ export default function GithubRepoCard({ repo, theme }) {
             </p>
           </div>
           <div className="repo-Pic" style={{ color: theme.text }}>
-            <img src={repo.pic} alt={repo.name} style={{ width: '400px', height: '150px' }}/>
+            <img src={`${process.env.PUBLIC_URL}/assests/images/${repo.pic}`} alt={repo.name} style={{ width: '400px', height: '150px' }}/>
           </div>
           <p className="repo-description" style={{ color: theme.text }}>
             {repo.description}

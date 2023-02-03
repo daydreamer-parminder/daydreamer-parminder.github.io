@@ -3,7 +3,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Basket Wars",
-      "pic": "C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\basket_wars.jpg",
+      "pic": "basket_wars.jpg",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://drive.google.com/file/d/1Wv8wY8D-dtMSYxR0WTqn9elFEBtl3lpW/view",
       "description": "🔥 This is the basket ball survival RPG shooter game where waves of the zombies approach towards the users base and user need to destroy them with baskets and with some firepower as well.",
@@ -26,7 +26,7 @@
     {
       "id": "R_kgDOG_vYHA",
       "name": "Slots",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\slots.jpg",
+      "pic":"slots.jpg",
       "createdAt": "2022-03-13T20:41:33Z",
       "url": "https://play.google.com/store/apps/details?id=com.club7.playriver",
       "description": "📦 This is Online Slot game where user can select different themes of slot matchine and bet on different lines to get respective payouts.",
@@ -49,7 +49,7 @@
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Fight Knight",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\fight_knights.jpg",
+      "pic":"fight_knights.jpg",
       "createdAt": "2022-02-11T14:50:20Z",
       "url": "https://play.google.com/store/apps/details?id=com.rvtechnolgies.fightknights&hl=en_US",
       "description": "🌀 This is Real time strategy game where user is allocated the space in kingdom and there is battle of resources in between the users and kingdoms as well.",
@@ -72,7 +72,7 @@
     {
       "id": "R_kgDOGcPKSQ",
       "name": "Baccarat",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\baccarat.jpg",
+      "pic":"baccarat.jpg",
       "createdAt": "2021-11-26T17:56:07Z",
       "url": "https://drive.google.com/file/d/1sIfIq8zEETW5fDtzxpDYloWv8qHNhbSe/view",
       "description": "⚙️ This is a casino game where user need to put bets on given slots over the table and payouts will be given with respect to the cards outcome for the user.",
@@ -95,7 +95,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "Knife Hit",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\knife_hit.jpg",
+      "pic":"knife_hit.jpg",
       "createdAt": "2021-01-06T06:36:41Z",
       "url": "https://drive.google.com/file/d/1-6YJ9TJ1Whdn0ybBRPkKl5pjhXObFpsg/view",
       "description": "🚀  This is casual game where user need to hit the objects with knife placed on rotating drums of different speed and directions.",
@@ -118,7 +118,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Fire Rings",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\fire_rings.jpg",
+      "pic":"fire_rings.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://drive.google.com/file/d/1-4wcytwgM7I-erRHYkqmD9eGp7CEDSfI/view",
       "description": "🚀 This is casual game where user need to pass both the thumbs from fire rings obstacles during the journey.",
@@ -141,7 +141,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Circle Dash",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\circle_dash.jpg",
+      "pic":"circle_dash.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://www.youtube.com/watch?v=JWN1q5ku28Y",
       "description": "🚀 This is casual game where user need to pass the ball from different rotating obstacles during the journey.",
@@ -164,7 +164,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Ring App",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\ring_app.jpg",
+      "pic":"ring_app.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://drive.google.com/file/d/1wiAhOxJcqtiqFSLAQx56RwwmcP61_6Uk/view",
       "description": "🚀 This is OpenCV ring trying application where user put the hand infront of their device camera and application will detect your ringer finger automatically and put the ring on that finger.",
@@ -187,7 +187,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "AR Chat",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\ar_chat.jpg",
+      "pic":"ar_chat.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://www.chicmic.in/portfolios/ar-chat/",
       "description": "🚀 This is the AR android application developed in android studio for AR enabled device where user can place the 3d objects anywhere in AR space and also send them to others as well.",
@@ -210,7 +210,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Agority",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\agority.jpg",
+      "pic":"agority.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://agority.app/",
       "description": "🚀 This is virtual reality business application where users can iteract with each other in virtual rooms, share the multi media files with each other, presentations and other usefull stuff one do in regual business meetings in the offices.",
@@ -233,7 +233,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "VR Drive",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\vr_drive.jpg",
+      "pic":"vr_drive.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://drive.google.com/file/d/15_NyDzmcqQ0MkGhONZ4rN6N13ntgVdGT/view",
       "description": "🚀 This is virtual reality car driving application where user can control the car with help of VR headset controllers, this project is mainly developed for car driving schools.",
@@ -256,7 +256,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "RHR",
-      "pic":"C:\\WorkSpace\\React\\masterPortfolio-master\\src\\assests\\images\\rhr.jpg",
+      "pic":"rhr.jpg",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://succession-planning-dev.appspot.com/login",
       "description": "🚀 My Responsibility was to develop the REST API’s in the backend and consume theme as well in frontend.",
