@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always love to solve new and challenging problems to create an impact in society.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://docs.google.com/document/d/1StJBx7Y2lLkRTz-tSVK11np9C4ekGrhgyRZNkIxIuMo/edit?usp=sharing",
   portfolio_repository: "https://github.com/daydreamer-parminder/portfolio",
   githubProfile: "https://github.com/daydreamer-parminder",
 };
