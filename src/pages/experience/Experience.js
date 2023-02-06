@@ -158,7 +158,8 @@ class Experience extends Component {
 									src={require(`../../assests/images/${experience["header_image_path"]}`)}
 									alt=""
 								/> */}
-                <ExperienceImg theme={theme} />
+                <img src={`${process.env.PUBLIC_URL}/assests/images/experienced_game_developer_guy.png`} alt='experienced_game_developer_guy.png' style={{ height: '500px' }}/>
+                {/* <ExperienceImg theme={theme} /> */}
               </div>
               <div className="experience-heading-text-div">
                 <h1

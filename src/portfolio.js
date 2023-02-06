@@ -57,7 +57,7 @@ const skills = {
   data: [
     {
       title: "Game Developer",
-      fileName: "DataScienceImg",
+      fileName: "game_developer_guy",
       skills: [
         "⚡ Developing highly scalable and reusable solutions for Gaming and mulimedia applications for different platform",
         "⚡ Experience of working with OpenCV, AI, AR applications",
@@ -106,7 +106,7 @@ const skills = {
     },
     {
       title: "Backend Development",
-      fileName: "FullStackImg",
+      fileName: "backend_developer_guy",
       skills: [
         "⚡ Building responsive website front end using Angular",
         "⚡ Having good knowledge of JPA, Hibernate(ORM), Security and Databases like H2/MySQL",
@@ -146,7 +146,7 @@ const skills = {
     },
     {
       title: "Cloud Associate",
-      fileName: "CloudInfraImg",
+      fileName: "google_cloud_developer",
       skills: [
         "⚡ Experience working on Google cloud platform",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",

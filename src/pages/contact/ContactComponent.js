@@ -63,7 +63,8 @@ class Contact extends Component {
 											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <AddressImg theme={theme} />
+                <img src={`${process.env.PUBLIC_URL}/assests/images/guy_sending_email_sending_message.png`} alt='guy_sending_email_sending_message.png'/>
+                {/* <AddressImg theme={theme} /> */}
               </div>
               <div className="address-heading-text-div">
                 <h1

@@ -15,6 +15,12 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
+  else if(props.fileName === "game_developer_guy")
+    return <img src={`${process.env.PUBLIC_URL}/assests/images/game_developer_guy.png`} alt='game_developer_guy.png'/>;
+  else if(props.fileName === "backend_developer_guy")
+    return <img src={`${process.env.PUBLIC_URL}/assests/images/backend_developer_guy.png`} alt='backend_developer_guy.png'/>; 
+  else if(props.fileName === "google_cloud_developer")
+    return <img src={`${process.env.PUBLIC_URL}/assests/images/google_cloud_developer.png`} alt='google_cloud_developer.png'/>;    
   return <DesignImg theme={props.theme} />;
 }
 

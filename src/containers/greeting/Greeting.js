@@ -5,6 +5,7 @@ import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import { auto } from "@popperjs/core";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -47,7 +48,8 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assests/images/feelingProud.svg")}
 						></img> */}
-            <FeelingProud theme={theme} />
+            {/* <FeelingProud theme={theme} /> */}
+            <img src={`${process.env.PUBLIC_URL}/assests/images/guy_playing_video_games.png`} alt='guy_playing_video_games.png'/>
           </div>
         </div>
       </div>
